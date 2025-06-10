@@ -31,11 +31,9 @@ To set up and run this project locally, you'll need to install dependencies and 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/AI-ML-Football-Analysis-System.git](https://github.com/your-username/AI-ML-Football-Analysis-System.git)
+    git clone [https://github.com/Karthik2315/AI-ML-Football-Analysis-System.git](https://github.com/your-username/AI-ML-Football-Analysis-System.git)
     cd AI-ML-Football-Analysis-System
     ```
-    (Replace `your-username` with your actual GitHub username or the repository owner's username.)
-
 2.  **Create a Virtual Environment (Recommended):**
     It's highly recommended to use a virtual environment to manage dependencies and avoid conflicts with other Python projects.
     ```bash
